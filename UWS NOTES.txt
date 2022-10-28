@@ -1,0 +1,21 @@
+UWS
+
+web and mob development
+
+- coding
+- direct 3rd year access
+- 6 modules each year, 5 + 2 half modules in last year
+- aws amazon cloud
+
+modules
+- wb development
+- database applications
+- internet scripting (C#, ASP.NET etc)
+- web server tech (mysql, aws, linux, apache)
+- creative technology professionalism
+- research methods in computing
+- programming for mobile (Object oriented JS)
+- server side systems
+- internet technologies
+
+- 
